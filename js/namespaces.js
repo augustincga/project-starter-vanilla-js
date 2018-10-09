@@ -1,0 +1,4 @@
+var generic = {
+    Main: {},
+    Sidebar: {}
+};
